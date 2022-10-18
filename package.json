@@ -12,7 +12,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "@ko-fi/koa": "^1.0.1",
+        "@ko-fi/koa": "^1.0.2",
         "@koa/router": "^12.0.0",
         "koa": "^2.13.4",
         "koa-body": "^5.0.0"
